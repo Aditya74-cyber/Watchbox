@@ -1,0 +1,10 @@
+watchbox/
+├── backend/
+│   ├── models/
+│   ├── routes/
+│   └── server.js
+├── frontend/
+│   └── (React app code here)
+├── .env
+└── package.json
+
